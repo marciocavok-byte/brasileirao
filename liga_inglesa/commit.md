@@ -21,4 +21,4 @@ Ao realizar <git commit> estamos confirmando no nosso repositório git local que
 Sempre com aspas duplas " "
 
 Após isso seguimos com a operação de PUSH para levar as mudanças locais para o repositório online (no caso o GitHub)
-conforme vimos em [Boas Práticas](/estatisticas/liga_inglesa/boas%20praticas.md)
+conforme vimos em [Boas Práticas](../estatisticas/liga_inglesa/boas%20praticas.md)

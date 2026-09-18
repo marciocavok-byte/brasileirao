@@ -23,7 +23,7 @@ mas se ainda tiver dúvida, execute o comando de pull na sua main, depois troque
 
 **Finalizando o trabalho e enviando para o repositório online do github**
 
-Adicione as alterações pelos comandos add e commit -- detalhados em [commit](/estatisticas/liga_inglesa/commit.md)
+Adicione as alterações pelos comandos add e commit -- detalhados em [commit](../estatisticas/liga_inglesa/commit.md)
 
 
 realize o comando:
